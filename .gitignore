@@ -1,0 +1,11 @@
+# Ignorar archivos compilados de Ren'Py
+*.rpyc
+*.rpyb
+*.rpymc
+
+# Ignorar archivos de guardado y temporales
+/game/saves/
+/game/cache/
+/tmp/
+log.txt
+unrpyc.log.txt
